@@ -22,7 +22,7 @@ class Juet{
 };
 
 
-public class Mainlab0321
+public class Main
 {
 	public static void main(String[] args) {
 		Juet obj1 = new Juet();
